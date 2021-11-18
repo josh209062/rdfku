@@ -9,7 +9,7 @@ rdf:about="http://www.recshop.fake/cd/pertama">
   <dc:color>Black</dc:color>
   <dc:price>$28.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-GLTICH-TEE-BLACK4.jpg?v=1614952362</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/beast-glitch-tee-black?_pos=4&_psq=beast%20glit&_ss=e&_v=1.0</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/beast-glitch-tee-black</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -19,7 +19,7 @@ rdf:about="http://www.recshop.fake/cd/kedua">
   <dc:color>Grey</dc:color>
   <dc:price>$38.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-BEAST98-LONG-SLEEVE1.jpg?v=1614952976</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/beast-98-long-sleeve-tee?_pos=2&_psq=beast%2098&_ss=e&_v=1.0</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/beast-98-long-sleeve-tee</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -29,7 +29,7 @@ rdf:about="http://www.recshop.fake/cd/ketiga">
   <dc:color>Yellow</dc:color>
   <dc:price>$38.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-ESCAPISM-LONG-SLEEVE-YELLOW3.jpg?v=1614953067</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/beast-escapism-long-sleeve-tee-yellow?_pos=2&_psq=beast%20escap&_ss=e&_v=1.0</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/beast-escapism-long-sleeve-tee-yellow</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -39,7 +39,7 @@ rdf:about="http://www.recshop.fake/cd/keempat">
   <dc:color>Green</dc:color>
   <dc:price>$55.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-GLITCH-HOODIE-GREEN5.jpg?v=1614953147</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/beast-glitch-hoodie-green?_pos=2&_psq=beast%20glitch&_ss=e&_v=1.0</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/beast-glitch-hoodie-green</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -49,7 +49,7 @@ rdf:about="http://www.recshop.fake/cd/kelima">
   <dc:color>Light Blue</dc:color>
   <dc:price>$60.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-ESCAPISM-HOODIE-LIGHT-BLUE3.jpg?v=1614952435</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/beast-escapism-hoodie-light-blue?_pos=4&_psq=beast%20escap&_ss=e&_v=1.0</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/beast-escapism-hoodie-light-blue</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -59,7 +59,7 @@ rdf:about="http://www.recshop.fake/cd/keenam">
   <dc:color>Pink</dc:color>
   <dc:price>$28.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-ESCAPISM-DAD-HAT-PINK7.jpg?v=1613770461</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/beast-escapism-dad-hat-pink?_pos=1&_psq=escap&_ss=e&_v=1.0</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/beast-escapism-dad-hat-pink</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -69,7 +69,7 @@ rdf:about="http://www.recshop.fake/cd/ketujuh">
   <dc:color>Blue</dc:color>
   <dc:price>$21.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-FROSTED-BEAST-SNAPBACK1_1080x.jpg?v=1635861558</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/frosted-beast-snapback?_pos=1&_psq=snap&_ss=e&_v=1.0&variant=39501693354035</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/frosted-beast-snapback</foaf:link>
 </rdf:Description>
 
 <rdf:Description
@@ -79,7 +79,7 @@ rdf:about="http://www.recshop.fake/cd/kedelapan">
   <dc:color>Yellow</dc:color>
   <dc:price>$21.00</dc:price>
   <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-BURGER-BURGER-BOY-PLUSHY1_1080x.jpg?v=1633975501</foaf:img>
-  <foaf:link>https://shopmrbeast.com/products/mrbeast-burger-boy-plush-toy?_pos=1&_sid=ddc635785&_ss=r</foaf:link>
+  <foaf:link>https://shopmrbeast.com/products/mrbeast-burger-boy-plush-toy</foaf:link>
 </rdf:Description>
 
 </rdf:RDF>
