@@ -1,0 +1,73 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/gadgetPertama">
+  <foaf:name>Samsung Galaxy Z Fold 3</foaf:name>
+  <rdf:storage>12 / 512 GB</rdf:storage>
+  <dc:color>Panthom Black</dc:color>
+  <dc:price>$1799</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm) Chipset, with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.samsung.com/id/smartphones/galaxy-z-fold3-5g/buy/zfold3_carousel_mainsinglekv_pc.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/suryaphone-samsung/samsung-galaxy-z-fold3-5g-12-512gb-phantom-black</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/gadgetKedua">
+  <foaf:name>Apple iPhone 13 Pro Max</foaf:name>
+  <rdf:storage>6 / 512 GB</rdf:storage>
+  <dc:color>Sierra Blue</dc:color>
+  <dc:price>$1399</dc:price>
+  <dc:description>Quad Rear Camera, Apple A15 Bionic (5 nm) with Hexa Core CPU and Apple GPU</dc:description>
+  <foaf:img>https://cdn.eraspace.com/pub/media/catalog/product/i/p/iphone_13_pro_max_sierra_blue_1.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/putragroup/iphone-13-pro-max-128gb-256gb-512gb-1tb-sierra-blue-graphite-gold-silv-ibox-512gb-sierra-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/gadgetKetiga">
+  <foaf:name>Google Pixel 6 Pro</foaf:name>
+  <rdf:storage>12 / 256 GB</rdf:storage>
+  <dc:color>Cloudy White</dc:color>
+  <dc:price>$899</dc:price>
+  <dc:description>Triple Rear Camera, Google Tensor Chipset with Octa Core CPU and Mali-G78 MP20</dc:description>
+  <foaf:img>https://akcdn.detik.net.id/community/media/visual/2021/10/20/google-pixel-6_169.jpeg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/samuderasports/google-pixel-6-pro-5g-128-256-512-gb-mmwave-versi-g8v0u-termasuk-pajak-cloudy-white-128-gb</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/gadgetKeempat">
+  <foaf:name>Lenovo Yoga 7 14ITL5</foaf:name>
+  <rdf:storage>16 GB RAM, 1 TB SSD</rdf:storage>
+  <dc:color>black</dc:color>
+  <dc:price>$1399</dc:price>
+  <dc:description>Touchscreen, Intel Core i7-1165G7 CPU with Graphics Integrated Intel Iris Xe Graphics</dc:description>
+  <foaf:img>https://www.softcom.co.id/wp-content/uploads/2020/12/Lenovo-Yoga-7-14ITL5-82BH0027ID-1-1.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/lenovo-official/lenovo-yoga-7-14itl5-core-i7-1165g7-16gb-1tb-ssd-win11-ohs-2021</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/gadgetKelima">
+  <foaf:name>ASUS ZenBook Pro Duo 15 OLED</foaf:name>
+  <rdf:storage>32 GB RAM, 1TB SSD</rdf:storage>
+  <dc:color>Celestial Blue</dc:color>
+  <dc:price>$2899</dc:price>
+  <dc:description>OLED 4K Display with Screenpad+, Intel Core i7-10870H CPU with NVIDIA GeForce RTX 3070 GPU</dc:description>
+  <foaf:img>https://1.bp.blogspot.com/-2--I7ijzqlE/YAA2Dy-ApOI/AAAAAAAAH5k/sBGvr5YAvUAFDj9gT6nnUesHg_oxKG4LACLcBGAsYHQ/s16000/ZenBook%2BPro%2BDuo%2BOLED%2BUX582-01.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/asus/asus-zenbook-pro-duo-15-oled-ux582lr-oled711-celestial-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/gadgetKeenam">
+  <foaf:name>Acer Swift X SFX14-41G</foaf:name>
+  <rdf:storage>16 GB RAM, 1 TB SSD</rdf:storage>
+  <dc:color>White</dc:color>
+  <dc:price>$1299</dc:price>
+  <dc:description>Acer PurifiedVoice (Noise Suppression), AMD Ryzen 7 5700U CPU with NVIDIA GeForce RTX 3050Ti GPU</dc:description>
+  <foaf:img>https://www.yangcanggih.com/wp-content/uploads/2021/05/Acer-Swift-X-SFX14-41G-R3AD-1-e1620022742142-770x540.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/acerid/swift-x-sfx14-41g-r7-5700u-rtx-3050ti-16gb-512-ssd-fhd-100-srgb-ohs-16gb512ssd</foaf:link>
+</rdf:Description>
+
+
+</rdf:RDF>
