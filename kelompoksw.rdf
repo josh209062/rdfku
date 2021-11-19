@@ -83,7 +83,7 @@ rdf:about="http://www.recshop.fake/cd/kedelapan">
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.recshop.fake/cd/kedelapan">
+rdf:about="http://www.recshop.fake/cd/kesembilan">
   <foaf:name>Beast 'Firecracker' Tee</foaf:name>
   <rdf:type>Tee</rdf:type>
   <dc:color>Yellow</dc:color>
