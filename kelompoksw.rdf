@@ -82,4 +82,14 @@ rdf:about="http://www.recshop.fake/cd/kedelapan">
   <foaf:link>https://shopmrbeast.com/products/mrbeast-burger-boy-plush-toy</foaf:link>
 </rdf:Description>
 
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedelapan">
+  <foaf:name>Beast 'Firecracker' Tee</foaf:name>
+  <rdf:type>Tee</rdf:type>
+  <dc:color>Yellow</dc:color>
+  <dc:price>$27.00</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-FIRECRACKER-TEE1_1080x.jpg?v=1591907198</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-firecracker-tee</foaf:link>
+</rdf:Description>
+
 </rdf:RDF>
