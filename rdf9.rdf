@@ -57,7 +57,7 @@ rdf:about="http://www.recshop.fake/cd/keenam">
   <foaf:name>Nissan All-New Livina 1.5 VL AT</foaf:name>
   <rdf:type>Mobil</rdf:type>
   <dc:color>Merah</dc:color>
-  <dc:price>Rp. .000</dc:price>
+  <dc:price>Rp. 272.100.000</dc:price>
   <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/3/19/7033033/7033033_38fc5ccf-50ad-46e7-a7ce-736f81f296a9_1080_1080.webp</foaf:img>
   <foaf:link>https://www.tokopedia.com/indomobilnissan/nissan-all-new-livina-1-5-vl-at</foaf:link>
 </rdf:Description>
