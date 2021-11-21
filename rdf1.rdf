@@ -13,7 +13,7 @@ rdf:about="http://www.recshop.fake/cd/pertama">
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.recshop.fake/cd/pertama">
+rdf:about="http://www.recshop.fake/cd/kedua">
   <foaf:name>Nike Air Jordan</foaf:name>
   <rdf:type>Sport</rdf:type>
   <dc:color>Abu-abu</dc:color>
@@ -23,7 +23,7 @@ rdf:about="http://www.recshop.fake/cd/pertama">
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.recshop.fake/cd/pertama">
+rdf:about="http://www.recshop.fake/cd/ketiga">
   <foaf:name>Larocking - Emperor</foaf:name>
   <rdf:type>Sneakers Running</rdf:type>
   <dc:color>Hitam Abu-abu</dc:color>
@@ -33,7 +33,7 @@ rdf:about="http://www.recshop.fake/cd/pertama">
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.recshop.fake/cd/pertama">
+rdf:about="http://www.recshop.fake/cd/keempat">
   <foaf:name>Nike Airmax 720</foaf:name>
   <rdf:type>Running</rdf:type>
   <dc:color>Navy</dc:color>
@@ -43,7 +43,7 @@ rdf:about="http://www.recshop.fake/cd/pertama">
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.recshop.fake/cd/pertama">
+rdf:about="http://www.recshop.fake/cd/kelima">
   <foaf:name>Dane and Dine S0010</foaf:name>
   <rdf:type>Sneakers Man</rdf:type>
   <dc:color>Black</dc:color>
@@ -53,7 +53,7 @@ rdf:about="http://www.recshop.fake/cd/pertama">
 </rdf:Description>
 
 <rdf:Description
-rdf:about="http://www.recshop.fake/cd/pertama">
+rdf:about="http://www.recshop.fake/cd/keenam">
   <foaf:name>SH05 Canvas Shoes </foaf:name>
   <rdf:type>Korean Style</rdf:type>
   <dc:color>Purple</dc:color>
