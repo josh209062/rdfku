@@ -24,12 +24,12 @@ rdf:about="http://www.recshop.fake/cd/kedua">
 
 <rdf:Description
 rdf:about="http://www.recshop.fake/cd/ketiga">
-  <foaf:name></foaf:name>
-  <rdf:type></rdf:type>
-  <dc:color></dc:color>
-  <dc:price>Rp. .900</dc:price>
-  <foaf:img></foaf:img>
-  <foaf:link></foaf:link>
+  <foaf:name>Onemed P3K - Outdoor First Aid Kit</foaf:name>
+  <rdf:type>Med Kit</rdf:type>
+  <dc:color>Merah</dc:color>
+  <dc:price>Rp. 20.499</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/attachment/2020/8/21/-1/-1_6ce061d7-2152-4a49-a40d-df7ace360b70.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/mauin/onemed-p3k-warna-merah-model-dompet-one-med-outdoor-first-aid-kit</foaf:link>
 </rdf:Description>
 
 <rdf:Description
