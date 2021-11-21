@@ -68,6 +68,72 @@ rdf:about="http://www.recshop.fake/cd/gadgetKeenam">
   <foaf:img>https://www.yangcanggih.com/wp-content/uploads/2021/05/Acer-Swift-X-SFX14-41G-R3AD-1-e1620022742142-770x540.jpg</foaf:img>
   <foaf:link>https://www.tokopedia.com/acerid/swift-x-sfx14-41g-r7-5700u-rtx-3050ti-16gb-512-ssd-fhd-100-srgb-ohs-16gb512ssd</foaf:link>
 </rdf:Description>
+         
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKetujuh">
+  <foaf:name>Samsung S21 Ultra</foaf:name>
+  <rdf:storage>12/256 GB</rdf:storage>
+  <dc:color>Phantom Silver</dc:color>
+  <dc:price>$1125</dc:price>
+  <dc:description>Quad Rear Camera,Exynos 2100 (5 nm), with Octa Core CPU, And Mali-G78 MP14 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/53593b85-f376-4d39-8c25-ccc3a8889230.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/ugadgetin/samsung-galaxy-s21-ultra-16-512gb-12-256gb-s21-12-128gb-garansi-black-s21-plus-256</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKedelapan">
+  <foaf:name>Xiaomi Mi 11 Ultra</foaf:name>
+  <rdf:storage>12/256 Gb</rdf:storage>
+  <dc:color>Cosmic Black</dc:color>
+  <dc:price>$1099</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/2/80971e1f-75a3-4b87-9781-fe803e8ee92f.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/rekomendasi/1935001134?ref=googleshopping&c=15279913438&m=425665727&p=1935001134&gclid=Cj0KCQiA-eeMBhCpARIsAAZfxZDOh32jP5kBngFEFoj_S53tiUj9HIVIZp45qkib-ujD9jP8igH2TFQaAtOvEALw_wcB&gclsrc=aw.ds</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKesembilan">
+  <foaf:name>Oppo Find X3 Pro</foaf:name>
+  <rdf:storage>12/256 Gb</rdf:storage>
+  <dc:color>Gloss Black</dc:color>
+  <dc:price>$1177</dc:price>
+  <dc:description>Quad Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), ith Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/6/21/299adbe4-d363-48b3-8807-fb0df41b3564.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/aalinshop/oppo-find-x3-pro-5g-12-256gb-garansi-resmi-oppo-indonesia</foaf:link>
+</rdf:Description>
+         
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKetiga">
+ <foaf:name>ASUS ROG Phone 5</foaf:name>
+  <rdf:storage>16/256 GB</rdf:storage>
+  <dc:color>Phantom Black</dc:color>
+  <dc:price>$1049</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm) Chipset, with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://www.droidlime.com/wp-content/uploads/2021/08/ROG-Phone-5s-Series-2.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/grenpeelstore/rog-phone-5s-pro-18-512gb-18-256gb-snapdragon-888-5g-white-black-18gb-256gb-5s-hitam</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKeempat">
+ <foaf:name>Xiaomi Black Shark 4</foaf:name>
+  <rdf:storage>8/128 GB</rdf:storage>
+  <dc:color>Mirror Black</dc:color>
+  <dc:price>$429</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8250-AC Snapdragon 870 5G (5nm) Chipset, with Octa Core CPU, And Adreno 650 GPU</dc:description>
+  <foaf:img>https://www.tokohapedia.co.id/storage/media/zhuV5CWYFa13pq9qw3knov6syP1ioSUloqyfWsmE.jpeg</foaf:img>
+  <foaf:link></foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKelima">
+  <foaf:name>OnePlus 9 Pro</foaf:name>
+  <rdf:storage>12/256 GB</rdf:storage>
+  <dc:color>Pine Green</dc:color>
+  <dc:price>$799</dc:price>
+  <dc:description>Quad Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://i.gadgets360cdn.com/large/oneplus_9_pro_image_2_1617264222830.jpg?downsize=950:*</foaf:img>
+  <foaf:link>https://www.tokopedia.com/putragroup/oneplus-9-pro-256gb-12gb-128gb-8gb-global-version-one-plus-9-oneplus-9-256gb-black</foaf:link>
+</rdf:Description>
 
 
 </rdf:RDF>
