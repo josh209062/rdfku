@@ -54,7 +54,7 @@ rdf:about="http://www.ggshop.fake/cd/gadgetKelima">
   <dc:color>Pine Green</dc:color>
   <dc:price>$799</dc:price>
   <dc:description>Quad Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), with Octa Core CPU, And Adreno 660 GPU</dc:description>
-  <foaf:img>https://i.gadgets360cdn.com/large/oneplus_9_pro_image_2_1617264222830.jpg?downsize=950:*</foaf:img>
+  <foaf:img>https://i.gadgets360cdn.com/large/oneplus_9_pro_image_2_1617264222830.jpg</foaf:img>
   <foaf:link>https://www.tokopedia.com/putragroup/oneplus-9-pro-256gb-12gb-128gb-8gb-global-version-one-plus-9-oneplus-9-256gb-black</foaf:link>
 </rdf:Description>
 
@@ -65,7 +65,7 @@ rdf:about="http://www.ggshop.fake/cd/gadgetKeenam">
   <dc:color>Sorta Sunny</dc:color>
   <dc:price>$1880</dc:price>
   <dc:description>Triple Rear Camera, Google Tensor (5 nm), with Octa Core CPU, And Mali-G78 MP20 GPU</dc:description>
-  <foaf:img>https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:744/height:496/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/androidworld.nl/images/2021-08/google-pixel-6-610f9f5f0aa18.jpg?</foaf:img>
+  <foaf:img>https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:744/height:496/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/androidworld.nl/images/2021-08/google-pixel-6-610f9f5f0aa18.jpg</foaf:img>
   <foaf:link>https://www.tokopedia.com/technophilia/google-pixel-6-dan-6-pro-new-bnob-region-japan-all-operator-permanen-pixel-6-128gb</foaf:link>
 </rdf:Description>
 
