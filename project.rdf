@@ -1,0 +1,266 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Apel</foaf:nama>
+        <dc:ordo>Rosales</dc:ordo>
+        <dc:famili>Rosaceae</dc:famili>
+        <dc:genus>Malus</dc:genus>
+        <dc:spesies>Malus domestica</dc:spesies>
+        <dc:deskripsi>Merupakan pohon yang kecil dan berdaun gugur, dapat mencapai ketinggian 3 hingga 12 meter, dengan tajuk yang lebar dan biasanya sangat beranting. Memiliki daun yang berbentuk lonjong dengan panjang 5-12cm dan lebar 3-6cm. Bunga apel mekar di musim semi, bersamaan dengan percambahan daun. Bunganya putih dengan baur merah jambu yang berangsur pudar. Pada bunga, terdapat lima kelopak, dan mencapai diameter 2.5 hingga 3.5 cm. Buahnya masak pada musim gugur, dan biasanya berdiameter 5 hingga 9 centimeter. Inti buah apel memiliki lima gynoecium yang tersusun seperti bintang lima mata, masing-masing berisi satu hingga tiga biji.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Karbohidrat(Gula Serat, Pangan), Lemak, Protein, Vitamin(A, B1, B2, B3, B5, B6, B9, dan C), Mineral(Kalsium, Zat Besi, Magnesium, Fosfor, Potasium, dan Seng), dan Air.</dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Blooming_apple_tree.jpg/220px-Blooming_apple_tree.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Durian</foaf:nama>
+        <dc:ordo>Malvales</dc:ordo>
+        <dc:famili>Malvaceae</dc:famili>
+        <dc:genus>Durio</dc:genus>
+        <dc:spesies>Durio zibethinus</dc:spesies>
+        <dc:deskripsi>Pohon durian dapat mencapai tinggi 25-50 meter tergantung dari spesies durian nya. Memiliki akar banir(akar papan), Kulit batang berwarna coklat kemerahan, mengelupas dan tidak beraturan, tajuknya rindang dan renggang. Daun berbentuk jorong hingga lanset, 10-15(-17) cm × 3-4,5(-12,5) cm; terletak berseling; bertangkai; berpangkal lancip atau tumpul dan berujung lancip melandai; sisi atas berwarna hijau terang, sisi bawah tertutup sisik-sisik berwarna perak atau keemasan dengan bulu-bulu bintang. Buahnya memiliki aroma khas dengan sekali cium dari jarak yang jauh kita tau kalau itu adalah durian, dan juga kulit buahnya ditutupi oleh duri duri yang tajam.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Karbohidrat(Serat Pangan), Lemak, Protein, Vitamin C, Mineral Potasium, dan air.</dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Durio_zibeth_070707-0085_cmap.jpg/200px-Durio_zibeth_070707-0085_cmap.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Semangka</foaf:nama>
+        <dc:ordo>Cucurbitales</dc:ordo>
+        <dc:famili>Cucurbitaceae</dc:famili>
+        <dc:genus>Citrullus</dc:genus>
+        <dc:spesies>C. lanatus</dc:spesies>
+        <dc:deskripsi>Merupakan tanaman merambat, habitus tanaman ini merambat namun ia tidak dapat membentuk akar adventif dan tidak dapat memanjat. Jangkauan rambatan dapat mencapai belasan meter. Daunnya berlekuk-lekuk di tepinya. Bunganya sempurna, berwarna kuning, kecil (diameter 3 cm). Buah semangka memiliki kulit yang keras, berwarna hijau pekat atau hijau muda dengan larik-larik hijau tua. Tergantung kultivarnya, daging buahnya yang berair berwarna merah atau kuning.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Karbohidrat(Gula, Serat pangan), Lemak, Protein, Vitamin(A, B1, B2, B3, B5, B6, B9, dan C), Mineral (Kalsium, Zat Besi, Magnesium, Fosfor, Potasium, dan Seng), dan Air. </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg/200px-Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Melon</foaf:nama>
+        <dc:ordo>Cucurbitales</dc:ordo>
+        <dc:famili>Cucurbitaceae</dc:famili>
+        <dc:genus>Cucumis</dc:genus>
+        <dc:spesies>C. melo</dc:spesies>
+        <dc:deskripsi>Tumbuhan semusim, merambat tetapi menjalar, tidak memanjat. Daun berbentuk menjari dengan lekuk moderat sehingga seperti lingkaran bersudut. Batangnya biasanya tidak berkayu. Tumbuhan ini berumah satu dengan bunga dua tipe: bunga jantan dan hermafrodit. Bunga jantan muncul biasanya pada saat tanaman masih muda atau bila tumbuhnya kurang baik. Buah bertipe pepo. Bagian mesokarp menebal menjadi daging buah yang berair. Pemuliaan diarahkan pada daging buah yang tebal, manis, serta jika mungkin, harum.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Karbohidrat, Serat, Vitamin (B1, B2, B3, B5, B6, dan C), Kalsium, Besi, Fosfor, Kalium, Natrium, dan Zinc.</dc:manfaat>
+        <foaf:gambar>https://thegorbalsla.com/wp-content/uploads/2020/02/Menanam-dan-Budidaya-Tanaman-Melon-Hidroponik-700x467.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Mentimun</foaf:nama>
+        <dc:ordo>Cucurbitales</dc:ordo>
+        <dc:famili>Cucurbitaceae</dc:famili>
+        <dc:genus>Cucumis</dc:genus>
+        <dc:spesies>C. sativus</dc:spesies>
+        <dc:deskripsi>Habitus mentimun berupa herba lemah melata atau setengah merambat dan merupakan tanaman semusim: setelah berbunga dan berbuah tanaman mati. Buah berwarna hijau ketika muda dengan larik-larik putih kekuningan. Semakin buah masak warna luar buah berubah menjadi hijau pucat sampai putih. Bentuk buah memanjang seperti torpedo. Daging buahnya perkembangan dari bagian mesokarp, berwarna kuning pucat sampai jingga terang. Buah dipanen ketika masih setengah masak dan biji belum masak fisiologi. Buah yang masak biasanya mengering dan biji dipanen, warnanya hitam.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Air, Vitamin (A, B, dan C), dan Mineral (Magnesium, Kalium, Mangan, dan Silika).</dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ARS_cucumber.jpg/200px-ARS_cucumber.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Anggur</foaf:nama>
+        <dc:ordo>Rhamnales</dc:ordo>
+        <dc:famili>vitaceae</dc:famili>
+        <dc:genus>Vitis</dc:genus>
+        <dc:spesies>Vitis vinifera, Vitis labrusca</dc:spesies>
+        <dc:deskripsi>Tanaman anggur adalah tanaman semak menahun, ditandai oleh heliks – sulur dan pertumbuhan tertinggal. Ini adalah pohon anggur dan biasanya merambat di atas batu atau batang pohon. Daunnya besar, berlawanan, menyerupai jantung, dan perbungaan tumbuh melintasinya. Mereka mungkin bertingkat atau bercuping dengan 3-5 cuping dan saraf yang berbeda. Bentuk, ukuran, dan warna daun tergantung pada varietas. Buah anggur secara botani adalah buah beri. Ukuran dan warna buah anggur bervariasi di antara varietas yang berbeda. Warna, yang dapat bervariasi dari hijau ke merah tua. </dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti karbohidrat (Gula dan Serat Pangan), Lemak, Protein, Vitamin (B1, B2, B3, B5, B6, B9, B12, C dan K), dan Mineral (Kalsium, Zat besi, Magnesium, Mangan, Fosfor, Potasium, Sodium, dan Seng).</dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Autumn_Royal_grapes.jpg/81px-Autumn_Royal_grapes.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Alpukat</foaf:nama>
+        <dc:ordo>Laurales</dc:ordo>
+        <dc:famili>Lauraceae</dc:famili>
+        <dc:genus>Persea</dc:genus>
+        <dc:spesies>Persea americana</dc:spesies>
+        <dc:deskripsi>Alpukat adalah pohon yang dapat tumbuh hingga ketinggian 20 meter. Daunnya tumbuh secara beraturan dengan ukuran panjang sekitar 12 cm hingga 25 cm. Tanaman ini memiliki bunga yang tidak terlalu mencolok, warnanya kuning kehijauan, serta berukuran kecil antara 5 mm sampai 10 mm. Alpukat menghasilkan buah secara musiman. Biji buahnya berjumlah 1 dengan ukuran besar, kira-kira 5 cm sampai 6,5 cm. Pada umumnya, ukuran buah avocad sekitar 7 cm sampai 20 cm dengan berat antara 100 sampai 1.000 gram.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Protein, Lemak, Karotenoid, Lutein, Vitamin(C, K, E, dan B6), Mineral ( Folat, Kalium, Zat besi) anti-inflamasi, Natrium (Sodium), dan Kolestrol.</dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Persea_americana_fruit_2.JPG/250px-Persea_americana_fruit_2.JPG</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Manggis</foaf:nama>
+        <dc:ordo>Malpighiales</dc:ordo>
+        <dc:famili>Clusiaceae</dc:famili>
+        <dc:genus>Garcinia</dc:genus>
+        <dc:spesies>G. mangostana</dc:spesies>
+        <dc:deskripsi>Tumbuh hingga mencapai 7 sampai 25 meter. Buahnya juga disebut manggis, berwarna merah keunguan ketika matang, meskipun ada pula varian yang kulitnya berwarna merah. Terdapat dua macam akar pada pohon Manggis yaitu akar tunggang dan akar serabut. Akar tunggang sangat kuat dan menjulur cukup dalam ke tanah, sedangkan pada akar serabut lemah dan cenderung agak dangkal dalam menjulur ke tanah. Akar pohon Manggis mengalami pertumbuhan yang lambat sehingga secara bertahap dalam jangka waktu tertentu banyak yang mengalami layu bahkan mati, namun hal ini tergantung pada kondisi lingkungan sekitarnya dan juga pengaruh dari sifat dan karakteristik pohonnya itu sendiri.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Air, Energi, Protein, Lemak, Karbohidrat, Serat, Abu, Kalsium, Fosfor, Zat Besi, Natrium, Kalium, Tembaga, Seng, Vitamin(B1, B2, dan C), dan Niasin.</dc:manfaat>
+        <foaf:gambar>https://leuweunggeledegan.com/wp-content/uploads/2020/02/bibit-manggis-1-768x576.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Buah Naga</foaf:nama>
+        <dc:ordo> Caryophyllales</dc:ordo>
+        <dc:famili>Cactaceae</dc:famili>
+        <dc:genus>Hylocereus (Berger) Britt dan Rose</dc:genus>
+        <dc:spesies>Hylocereus undatus, Selene cereus sp.</dc:spesies>
+        <dc:deskripsi>Morfologi tanaman buah naga terdiri dari akar, batang, duri, bunga, dan buah. Akar buah naga hanyalah akar serabut yang berkembang dalam tanah pada batang atas sebagai akar gantung. Akar tumbuh di sepanjang batang pada bagian punggung sirip di sudut batang. Pada bagian duri, akan tumbuh bunga yang bentuknya mirip bunga Wijayakusuma. Bunga yang tidak rontok berkembang menjadi buah. Buah naga bentuknya bulat agak lonjong seukuran dengan buah alpukat. Kulit buahnya berwarna merah menyala untuk jenis buah naga putih dan merah, berwarna merah gelap untuk buah naga hitam, dan berwarna kuning untuk buah naga kuning. Di sekujur kulit dipenuhi dengan jumbai-jumbai yang dianalogikan dengan sisik naga. Oleh sebab itu, buah ini disebut buah naga. Batangnya berbentuk segitiga, durinya sangat pendek dan tidak mencolok, sehingga sering dianggap "kaktus tak berduri". Bunganya mekar pada awal senja jika kuncup bunga sudah berukuran sekitar 30 cm. Mahkota bunga bagian luar yang berwarna krem, mekar sekitar pukul sembilan malam, lalu disusul mahkota bagian dalam yang putih bersih, meliputi sejumlah benang sari yang berwarna kuning. Bunga seperti corong itu akhirnya terbuka penuh pada tengah malam, karena itu buah naga dikenal sebagai night blooming cereus. Saat mekar penuh, buah naga menyebar bau yang harum. Aroma ini untuk memikat kelelawar, agar menyerbuki bunga buah naga.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Vitamin(C, B2, B3), Magnesium, Zat Besi, Kalsium, Antioksidan, dan Fosfor.</dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hylocereus_undatus_Mekarsari_Tourism_Park.JPG/220px-Hylocereus_undatus_Mekarsari_Tourism_Park.JPG</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Belimbing</foaf:nama>
+        <dc:ordo>Oxalidales</dc:ordo>
+        <dc:famili>Oxalidaceae</dc:famili>
+        <dc:genus>Averrhoa</dc:genus>
+        <dc:spesies>A. carambola</dc:spesies>
+        <dc:deskripsi>Pohon ini memiliki daun majemuk yang panjangnya dapat mencapai 50 cm, bunga berwarna merah muda yang umumnya muncul di ujung dahan. Pohon ini bercabang banyak dan dapat tumbuh hingga mencapai 5 m. Tidak seperi tanaman tropis lainnya, pohon belimbing tidak memerlukan banyak sinar matahari. Penyebaran pohon belimbing sangat luas, karena benihnya disebarkan oleh kelelawar. Buah belimbing berwarna kuning kehijauan. Saat baru tumbuh, buahnya berwarna hijau. Jika dipotong, buah ini mempunyai penampang yang berbentuk bintang. Berbiji kecil dan berwarna coklat. Buah ini renyah saat dimakan, rasanya manis dan sedikit asam.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Vitamin (A, B3, B9, dan C), Magnesium, Zat Besi, Pottasium, Mangan, Beta karoten, karbohidrat, Serat, Protein, Kalori. </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Averrhoa_carambola_ARS_k5735-7.jpg/240px-Averrhoa_carambola_ARS_k5735-7.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Nanas</foaf:nama>
+        <dc:ordo>Poales</dc:ordo>
+        <dc:famili>Bromeliaceae</dc:famili>
+        <dc:genus>Ananas</dc:genus>
+        <dc:spesies>Ananas comosus</dc:spesies>
+        <dc:deskripsi>Tanaman Nanas mempunyai batang yang pendek letaknya tertutup oleh daun-daun dan akar tanaman. Panjang dari batang tanaman nanas diantara 20 cm sampai 30 cm, batang bagian bawah tanaman nanas berukuran sekitar 2 cm sampai 3,5 cm sedangkan pada batang bagian atas sekitar 5,5 cm sampai 6,5 cm kemudian pada bagian atas meruncing. Batang tanaman nanas memiliki ruas-ruas pendek, bisa terlihat jika daunnya dilepas atau gugur. Panjang ruas tersebut antara 1mm sampai 10 mm. Daun tanaman nanas tidak mempunyai tulang daun dengan panjang daun bisa mencapai 90 cm tergantung dari jenis varietasnya dari tanaman. Kulit buah mempunyai sisik sisik yang simetris dan pada ujung buah memiliki mahkota yang bisa sebagai perbanyakan tanaman. Ukuran, bentuk, rasa, dan warna dari buah nanas tergantung dari jenis varietas.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Protein, Serat, Karbohidrat, Gula, Vitamin (A dan C), Folat, Kalium dan Magnesium. </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pineapple1.JPG/220px-Pineapple1.JPG</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Jambu Biji</foaf:nama>
+        <dc:ordo>Myrtales</dc:ordo>
+        <dc:famili>Myrtaceae</dc:famili>
+        <dc:genus>Psidium</dc:genus>
+        <dc:spesies>P. guajava</dc:spesies>
+        <dc:deskripsi>Secara morfologi tinggi pohon jambu biji sekitar 2-10 meter dan memiliki cabang yang menyebar. Akarnya merupakan akar dangkal. Kulit batangnya keras, namun pada bagian batang permukaannya memiliki tekstur yang halus, mudah terkelupas dan berwarna cokelat. Bunganya terletak di ketiak daun dan termasuk bunga tunggal bertangkai, kelopak bunga berbentuk corong dan terdapat 1 – 3 bunga. Daun muda tanaman ini bertekstur halus sedangkan daun tua permukaan atasnya licin. Bentuk daunnya bulat telur agak menjorong. Panjang daun jambu biji 6 – 14 cm dengan lebar 3 – 6 cm. Tepi daun rata agak melekuk ke atas, bertulang menyirip, dan warna daun berwarna hijau. Buah jambu biji berbentuk bulat atau bulat lonjong dengan kulit buah berwarna hijau saat muda dan berubah kuning muda mengkilap setelah matang. Biji jambu biji cukup banyak, namun ada beberapa jenis jambu biji yang berbiji sedikit bahkan tanpa biji.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Serat, Air, Besi, Vitamin(A, C, E, dan K), Fosfor Thiamin Lemak, Karbohidrat, Kalium, Kalsium, Protein, Seng, Selenium, Mangan dan Natrium.</dc:manfaat>
+        <foaf:gambar>https://bungabunga.co.id/wp-content/uploads/2020/01/Budidaya-Jambu-Biji.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Jambu Air</foaf:nama>
+        <dc:ordo>Myrtales</dc:ordo>
+        <dc:famili>Myrtaceae</dc:famili>
+        <dc:genus>Syzygium </dc:genus>
+        <dc:spesies>S. aqueum</dc:spesies>
+        <dc:deskripsi>Jambu air umumnya berupa perdu, dengan tinggi 3-10 m. Sering dengan batang bengkak-bengkok dan bercabang mulai dari pangkal pohon, kadang-kadang gemangnya mencapai 50 cm.  Daun tunggal terletak berhadapan, bertangkai 0,5-1,5 cm. Helaian daun berbentuk jantung jorong sampai bundar telur terbalik lonjong, 7-25 x 2,5–16 cm, tidak atau sedikit berbau aromatis apabila diremas. Buah bertipe buah buni, berbentuk gasing dengan pangkal kecil dan ujung yang sangat melebar (sering dengan lekukan sisi yang memisahkan antara bagian pangkal dengan ujung); 1,5-2 x 2,5-3,5 cm; bermahkota kelopak yang berdaging dan melengkung; sisi luar berwarna putih sampai merah. Daging buah putih, banyak berair, hampir tidak beraroma; berasa asam atau asam manis, kadang-kadang agak sepat. Biji berukuran kecil, 1-2(-6) butir. </dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Vitamin ( A dan C), Kalsium, Zat Besi, Magnesium, Zinc, Potasium, Asam Sitrat, Niacin, Riboflavin, Copper, dan Thiamin.</dc:manfaat>
+        <foaf:gambar>https://i1.wp.com/agrotek.id/wp-content/uploads/2020/07/Syarat-Tumbuh-Tanaman-Jambu-Air.jpg?resize=630%2C380</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Nangka</foaf:nama>
+        <dc:ordo>Urticales</dc:ordo>
+        <dc:famili>Moraceae</dc:famili>
+        <dc:genus>Artocarpus</dc:genus>
+        <dc:spesies>A. heterophyllus</dc:spesies>
+        <dc:deskripsi>Pohon nangka umumnya berukuran sedang, sampai sekitar 20 m tingginya, walaupun ada yang mencapai 30 meter. Batang bulat silindris, sampai berdiameter sekitar 1 meter. Tajuknya padat dan lebat, melebar dan membulat apabila di tempat terbuka. Seluruh bagian tumbuhan mengeluarkan getah putih pekat apabila dilukai. Daun tunggal, tersebar, bertangkai 1–4 cm, helai daun agak tebal seperti kulit, kaku, bertepi rata, bulat telur terbalik sampai jorong (memanjang), 3,5-12 × 5–25 cm, dengan pangkal menyempit sedikit demi sedikit, dan ujung pendek runcing atau agak runcing. Daun penumpu bulat telur lancip, panjang sampai 8 cm, mudah rontok dan meninggalkan bekas serupa cincin.Buah majemuk (syncarp) berbentuk gelendong memanjang, sering kali tidak merata, panjangnya hingga 100 cm, pada sisi luar membentuk duri pendek lunak. 'Daging buah', yang sesungguhnya adalah perkembangan dari tenda bunga, berwarna kuning keemasan apabila masak, berbau harum-manis yang keras, berdaging, kadang-kadang berisi cairan (nektar) yang manis. Biji berbentuk bulat lonjong sampai jorong agak gepeng, panjang 2–4 cm, berturut-turut tertutup oleh kulit biji yang tipis cokelat seperti kulit, endokarp yang liat keras keputihan, dan eksokarp yang lunak. Keping bijinya tidak setangkup.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Air, Energi, Protein, Lemak, Karbohidrat, Serat, kalsium, Fosfor, Zat Besi, Natrium, Kalium, Tembaga, Seng, Bata-karoten, Thiamin, Riboflavin, Niasin, dan Vitamin C. </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Artocarpus_heterophyllus_fruits_at_tree.jpg/225px-Artocarpus_heterophyllus_fruits_at_tree.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Pisang</foaf:nama>
+        <dc:ordo>Zingiberales</dc:ordo>
+        <dc:famili>Musaceae</dc:famili>
+        <dc:genus>Musa</dc:genus>
+        <dc:spesies>M. acuminata, M. balbisiana</dc:spesies>
+        <dc:deskripsi>Pisang awalnya merupakan tanaman lokal di kawasan Asia Tenggara yang sebagian besar berpusat di wilayah Indonesia. Hampir semua buah pisang memiliki kulit berwarna kuning ketika matang, meskipun ada beberapa yang berwarna jingga, merah, hijau, ungu, atau bahkan hampir hitam. Buah pisang sebagai bahan pangan merupakan sumber energi (karbohidrat) dan mineral, terutama kalium.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Karbohidrat (Gula, Serat Pangan), Lemak, Protein, Vitamin (B1, B2, B3, B5, B6, B9, Kolina, dan C), Mineral (Zat besi, Magnesium, Mangan, Fosfor, Potasium, Sodium, dan Seng), dan Air.</dc:manfaat>
+        <foaf:gambar>https://pict-a.sindonews.net/dyn/620/jateng/news/2019/11/05/3/10784/minum-jus-batang-pohon-pisang-bisa-atasi-diabetes-dan-anemia-nsn.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Sawo Manila</foaf:nama>
+        <dc:ordo>Ericales</dc:ordo>
+        <dc:famili>Sapotaceae</dc:famili>
+        <dc:genus>Manilkara</dc:genus>
+        <dc:spesies>M. zapota</dc:spesies>
+        <dc:deskripsi>Sawo manila merupakan tanaman buah yang termasuk dalam suku sawo-sawoan (Sapotaceae) yang berasal dari Amerika Tengah dan Meksiko. Tanaman sawo termasuk tumbuhan tropis yang mudah beradaptasi sehingga mudah dibudidayakan di berbagai negara termasuk di Indonesia, sawo banyak diusahakan di lahan pekarangan dan sangat mudah dijumpai di pasaran. Pohon yang besar dan rindang, dapat tumbuh hingga setinggi 30-40 m. Bercabang rendah, batang sawo manila berkulit kasar abu-abu kehitaman sampai cokelat tua. Daun tunggal, terletak berseling, sering mengumpul pada ujung ranting. Bunga-bunga tunggal terletak di ketiak daun dekat ujung ranting, bertangkai 1–2 cm, kerap kali menggantung, diameter bunga s/d 1,5 cm, sisi luarnya berbulu kecokelatan, berbilangan 6. Kelopak biasanya tersusun dalam dua lingkaran; mahkota bentuk genta, putih, berbagi sampai setengah panjang tabung. </dc:deskripsi>
+        <dc:manfaat>Energi, Protein, Lemak, Karbohidrat, Serat, Zat besi, Fosfor, Kalsium, Vitamin C, Kalium, dan Tembaga. </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sapodilla_tree.jpg/200px-Sapodilla_tree.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Rambutan</foaf:nama>
+        <dc:ordo>Sapinlades</dc:ordo>
+        <dc:famili>Sapindaceae</dc:famili>
+        <dc:genus>Nephelium</dc:genus>
+        <dc:spesies>N. lappaceum</dc:spesies>
+        <dc:deskripsi>Pohon berdaun hijau sepanjang tahun, menyukai suhu tropika hangat (suhu rata-rata 25 derajat Celsius), tinggi dapat mencapai 8m namun biasanya tajuknya melebar hingga jari-jari 4m. Daun majemuk menyirip dengan anak daun 5 hingga 9, berbentuk bulat telur, dengan variasi tergantung umur, posisi pada pohon, dan ras lokal. Tumbuhan ini menghasilkan bunga setelah tujuh tahun jika ditanam dari biji, tetapi pada usia 2 tahun sudah dapat berbunga jika diperbanyak secara vegetatif. Rambutan berumah dua, tetapi bersifat androdioecious, ada tumbuhan penghasil bunga jantan saja dan tumbuhan penghasil bunga banci. Tumbuhan jantan tidak pernah menghasilkan buah. Buah rambutan terbungkus oleh kulit yang memiliki "rambut" di bagian luarnya (eksokarp). Warnanya hijau ketika masih muda, lalu berangsur kuning hingga merah ketika masak/ranum. Endokarp berwarna putih, menutupi "daging". Bagian buah yang dimakan, "daging buah", sebenarnya adalah salut biji atau aril, yang bisa melekat kuat pada kulit terluar biji atau lepas ("rambutan ace"/ngelotok).</dc:deskripsi>
+        <dc:manfaat>Energi, Lemak, Protein, Vitamin(B1, B2, B3, B6, B9, dan C), dan Mineral (Kalsium, Zat besi, Magnesium, Mangan, Fosfor, Potasium, Sodium, dan Seng. </dc:manfaat>
+        <foaf:gambar> </foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Kuweni</foaf:nama>
+        <dc:ordo>Sapindales</dc:ordo>
+        <dc:famili>Anacardiaceae</dc:famili>
+        <dc:genus>Mangifera</dc:genus>
+        <dc:spesies>Mangifera x odorata</dc:spesies>
+        <dc:deskripsi>Pohon berukuran sedang, dengan tinggi antara 10-15 (jarang hingga 20) m. Berbatang lurus dengan tajuk bundar atau bundar telur melebar. Seluruh bagian tanaman, apabila dilukai, akan mengeluarkan getah berbau terpentin, yang mula-mula bening namun lama kelamaan akan menjadi cokelat kehitaman. Getah ini bersifat menggatalkan bila terkena kulit. Daun tunggal tersebar, bentuk lonjong sampai lanset, 12-35 x 4-10 cm, dengan ujung daun meluncip pendek, bertangkai 3–7 cm yang pangkalnya menggembung. Buah batu berbentuk lonjong-jorong miring, lk. 10-13 x 6–9 cm, kulitnya berwarna hijau sampai kekuningan, dengan bintik-bintik lentisel berwarna kecokelatan yang jarang-jarang. Kulit buah agak tebal, 3–4 mm, dengan daging berwarna kuning sampai agak jingga, manis-asam, berserat, mengandung banyak sari buah.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti Vitamin (A, B6, dan C), Serat, Kalsium, Zat Besi, Antioksidan, </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mangif_odor_071229-2990_khjo.jpg/250px-Mangif_odor_071229-2990_khjo.jpg</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Mangga</foaf:nama>
+        <dc:ordo>Sapindales</dc:ordo>
+        <dc:famili>Anacardiaceae</dc:famili>
+        <dc:genus>Mangifera</dc:genus>
+        <dc:spesies>M. indica</dc:spesies>
+        <dc:deskripsi>Memiliki perawakan yang besar, dengan rentang tinggi dari 5m hingga 30m. Batang tegak, bercabang kuat, dengan daun-daun lebat membentuk tajuk yang indah berbentuk kubah, oval atau memanjang, dengan diameter sampai 10 M.</dc:deskripsi>
+        <dc:manfaat>Buahnya memiliki aneka kandungan nutrisi seperti serat, karbohidrat, protein, Vitamin A, Vitamin C, Vitamin E, mikrogram folat, kalsium, magnesium, kalium, dan fosfor. </dc:manfaat>
+        <foaf:gambar>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mangifera_indica_old.JPG/200px-Mangifera_indica_old.JPG</foaf:gambar>
+    </rdf:Description>
+
+    <rdf:Description
+    rdf:about="http://www.JRfarm.fake.com/tanaman">
+        <foaf:tipe>Pohon</foaf:tipe>
+        <foaf:nama>Sirsak</foaf:nama>
+        <dc:ordo>Magnoliales</dc:ordo>
+        <dc:famili>Annonaceae</dc:famili>
+        <dc:genus>Annona</dc:genus>
+        <dc:spesies>A. muricata</dc:spesies>
+        <dc:deskripsi>Tanaman ini ditanam secara komersial atau sambilan untuk diambil buahnya. Pohon sirsak bisa mencapai tinggi 9 meter. Di Indonesia sirsak dapat tumbuh dengan baik pada ketinggian 1000 m dari permukaan laut. Buah sirsak bukan buah sejati, yang ukurannya cukup besar hingga 20–30 cm dengan berat mencapai 2,5 kg. Yang dinamakan "buah" sebenarnya adalah kumpulan buah-buah (buah agregat) dengan biji tunggal yang saling berhimpitan dan kehilangan batas antar buah. Daging buah sirsak berwarna putih dan memiliki biji berwarna hitam. Buah ini sering digunakan untuk bahan baku jus minuman serta es krim.</dc:deskripsi>
+        <dc:manfaat>Karbohidrat Fruktosa, Vitamin (A, B1, B2, dan C), Fosfor, Kalsium, Kalium, dan Natrium. </dc:manfaat>
+        <foaf:gambar>https://bibitonline.com/wp-content/uploads/Bibit-Sirsak.jpg</foaf:gambar>
+    </rdf:Description>
+
+
+</rdf:RDF>
