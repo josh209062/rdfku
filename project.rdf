@@ -3,7 +3,7 @@
          xmlns:dc="http://purl.org/dc/elements/1.1/">
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman1">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Apel</foaf:nama>
         <dc:ordo>Rosales</dc:ordo>
@@ -16,7 +16,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman2">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Durian</foaf:nama>
         <dc:ordo>Malvales</dc:ordo>
@@ -29,7 +29,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman3">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Semangka</foaf:nama>
         <dc:ordo>Cucurbitales</dc:ordo>
@@ -42,7 +42,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman4">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Melon</foaf:nama>
         <dc:ordo>Cucurbitales</dc:ordo>
@@ -55,7 +55,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman5">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Mentimun</foaf:nama>
         <dc:ordo>Cucurbitales</dc:ordo>
@@ -68,7 +68,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman6">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Anggur</foaf:nama>
         <dc:ordo>Rhamnales</dc:ordo>
@@ -81,7 +81,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman7">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Alpukat</foaf:nama>
         <dc:ordo>Laurales</dc:ordo>
@@ -94,7 +94,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman8">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Manggis</foaf:nama>
         <dc:ordo>Malpighiales</dc:ordo>
@@ -107,7 +107,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman9">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Buah Naga</foaf:nama>
         <dc:ordo> Caryophyllales</dc:ordo>
@@ -120,7 +120,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman10">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Belimbing</foaf:nama>
         <dc:ordo>Oxalidales</dc:ordo>
@@ -133,7 +133,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman11">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Nanas</foaf:nama>
         <dc:ordo>Poales</dc:ordo>
@@ -146,7 +146,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman12">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Jambu Biji</foaf:nama>
         <dc:ordo>Myrtales</dc:ordo>
@@ -159,7 +159,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman13">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Jambu Air</foaf:nama>
         <dc:ordo>Myrtales</dc:ordo>
@@ -172,7 +172,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman14">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Nangka</foaf:nama>
         <dc:ordo>Urticales</dc:ordo>
@@ -185,7 +185,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman15">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Pisang</foaf:nama>
         <dc:ordo>Zingiberales</dc:ordo>
@@ -198,7 +198,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman16">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Sawo Manila</foaf:nama>
         <dc:ordo>Ericales</dc:ordo>
@@ -211,7 +211,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman17">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Rambutan</foaf:nama>
         <dc:ordo>Sapinlades</dc:ordo>
@@ -224,7 +224,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman18">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Kuweni</foaf:nama>
         <dc:ordo>Sapindales</dc:ordo>
@@ -237,7 +237,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman19">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Mangga</foaf:nama>
         <dc:ordo>Sapindales</dc:ordo>
@@ -250,7 +250,7 @@
     </rdf:Description>
 
     <rdf:Description
-    rdf:about="http://www.JRfarm.fake.com/tanaman">
+    rdf:about="http://www.JRfarm.fake.com/tanaman20">
         <foaf:tipe>Pohon</foaf:tipe>
         <foaf:nama>Sirsak</foaf:nama>
         <dc:ordo>Magnoliales</dc:ordo>
